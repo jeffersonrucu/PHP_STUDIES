@@ -35,7 +35,7 @@ Este roadmap foi criado para guiar o aprendizado e o desenvolvimento de habilida
 - [ ] Conceitos de domínio e hospedagem.
 
 ## Fundamentos de PHP
-- [ ] Sintaxe básica e estrutura da linguagem.
+- [x] Sintaxe básica e estrutura da linguagem.
 - [ ] Variáveis e tipos de dados.
 - [ ] Operadores e expressões.
 - [ ] Estruturas de controle (condicionais, loops).
